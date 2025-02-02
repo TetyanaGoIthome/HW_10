@@ -45,3 +45,9 @@
    45  git log --oneline
    46  git push origin main
    47  history > command_list.csv
+   48  git clone https://github.com/TetyanaGoIthome/HW_10.git
+   49  cd HW_10
+   50  git add command_list.csv
+   51  git commit -m "otpr"
+   52  git push origin main
+
